@@ -1,8 +1,5 @@
-vgod's vimrc
+moisesvega's vimrc
 ============
-Author: Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>
-
-Fork me on GITHUB  https://github.com/vgod/vimrc.
 
 ONE-STEP INSTALL
 ----------------
