@@ -23,6 +23,7 @@ set history=50		" keep 50 lines of command line history
 set ruler		" show the cursor position all the time
 set autoread		" auto read when file is changed from outside
 set number              " show line numbers
+set nohlsearch          " no highlight search
 
 filetype off          " necessary to make ftdetect work on Linux
 syntax on
