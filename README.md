@@ -1,19 +1,16 @@
-vgod's vimrc
+moisesvega's vimrc
 ============
-Author: Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>
-
-Fork me on GITHUB  https://github.com/vgod/vimrc.
 
 ONE-STEP INSTALL
 ----------------
 
 Use curl (for Mac OS X):
 
-     curl -o - https://raw.github.com/moisesvega/vimrc/master/auto-install.sh | sh
+     curl -o - https://raw.githubusercontent.com/moisesvega/vimrc/master/auto-install.sh | sh
 
 or wget (for most UNIX platforms):
 
-     wget -O - https://raw.github.com/moisesvega/vimrc/master/auto-install.sh | sh
+     wget -O - https://raw.githubusercontent.com/moisesvega/vimrc/master/auto-install.sh | sh
 
 
 MANUALLY INSTALL
